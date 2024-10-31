@@ -1,0 +1,4 @@
+﻿  emulator.cpp
+C:\Users\User\source\repos\emulator\emulator\emulator.cpp(55,13): warning C4244: инициализация: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\User\source\repos\emulator\emulator\emulator.cpp(58,17): warning C4244: =: преобразование "unsigned __int64" в "int", возможна потеря данных
+  emulator.vcxproj -> C:\Users\User\source\repos\emulator\x64\Debug\emulator.exe
